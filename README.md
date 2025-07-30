@@ -14,6 +14,15 @@ This repository is a set of documents (My opinions) and frameworks for running m
 
 > Do note that these are from the perspective of an engineer who's worked at small-and-mid-sized companies. If they seem off to you, feel free to raise a PR to correct or add context to the documents.
 
+### What this repository isn't
+
+This doesn't have guides on how to write scripts, obviously. This repository acts as a framework for writing "better" scripts than what an engineer at an early-stage startup might be exposed to.
+
+There are a few universally accepted facts about scripts which I don't even need to mention, such as:
+- Use type-safe query-builders and ORMs when dealing with database migrations.
+- Use official libraries to ease things up like infra spinup, and abstract away API details to ensure humans understand what's being written.
+- Write scripts for humans to read and review, if that means putting the whole thing in one function for cohesion then so be it.
+
 ### Let's define what we need
 
 - [Write Backwards Compatible Scripts](./docs/write-backwards-compatible-scripts.md)
