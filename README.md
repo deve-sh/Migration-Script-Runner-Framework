@@ -28,7 +28,7 @@ There are a few universally accepted facts about scripts which I don't even need
 - [Write Backwards Compatible Scripts](./docs/write-backwards-compatible-scripts.md)
 - [Version Control and Peer Review your scripts](./docs/version-control-and-peer-review-your-scripts.md)
 - [Setup the framework for running scripts - Secrets Management, Infra Management etc](./docs/setup-the-framework-for-running-scripts.md)
-- [Modify your framework to minimize bandwidth usage](./docs/modify-the-setup-to-minimize-bandwidth-usage.md)
+- [Adjust the setup to minimize bandwidth and network usage](./docs/adjust-the-setup-to-minimize-bandwidth-and-network-usage.md)
 - [Make it impossible to run production scripts from your machine or without approval](./docs/make-it-impossible-to-run-production-scripts-from-your-machine-or-without-approval.md)
 
 ### Contributions
