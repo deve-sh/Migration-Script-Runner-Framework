@@ -23,7 +23,7 @@ There are a few universally accepted facts about scripts which I don't even need
 - Use official libraries to ease things up like infra spinup, and abstract away API details to ensure humans understand what's being written.
 - Write scripts for humans to read and review, if that means putting the whole thing in one function for cohesion then so be it.
 
-### Let's define what we need
+### Index
 
 - [Write Backwards Compatible Scripts](./docs/write-backwards-compatible-scripts.md)
 - [Version Control and Peer Review your scripts](./docs/version-control-and-peer-review-your-scripts.md)
